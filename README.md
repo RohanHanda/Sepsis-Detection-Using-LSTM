@@ -54,7 +54,7 @@ These results demonstrate strong early risk detection performance despite severe
 
 
 ## 📁 Repository Structure
-early-disease-risk-prediction/
+Sepsis-Detection-using-LSTM/
 │
 
 ├── data/ # Dataset description (no raw data included)
