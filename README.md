@@ -56,13 +56,13 @@ These results demonstrate strong early risk detection performance despite severe
 ## 📁 Repository Structure
 early-disease-risk-prediction/
 │
+
 ├── data/ # Dataset description (no raw data included)
-├── notebooks/ # EDA, preprocessing, training, evaluation
-├── src/ # Model, attention, training, evaluation scripts
-├── model/ # Saved model, scaler, threshold
-├── results/ # ROC curve, PR curve, attention visualizations
-├── app.py # Streamlit application
-├── requirements.txt
+
+├── notebook/ # EDA, preprocessing, training, evaluation
+
+├── model/ # Saved model
+
 └── README.md
 
 ---
