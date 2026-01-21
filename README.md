@@ -57,7 +57,7 @@ These results demonstrate strong early risk detection performance despite severe
 Sepsis-Detection-using-LSTM/
 │
 
-├── data/ # Dataset description (no raw data included)
+├── dataset/ # Dataset
 
 ├── notebook/ # EDA, preprocessing, training, evaluation
 
